@@ -20,7 +20,7 @@
 
 ## Особенности
 
-* Взаимодействие с *API кинопоиска*
+* Взаимодействие с [*API кинопоиска*](https://kinopoiskapiunofficial.tech/)
 
 ## Функционал
 
@@ -38,3 +38,7 @@
 * kinopoisk_api_unofficial_client
 * python-telegram-bot
 * SQLAlchemy
+
+## Описание работы и структуры проекта
+
+[Смотреть description.md](description.md)
