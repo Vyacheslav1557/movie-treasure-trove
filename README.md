@@ -1,4 +1,5 @@
 # [Кинокладезь](https://t.me/MovieRecEngineBot)
+[@MovieRecEngineBot](https://t.me/MovieRecEngineBot)
 
 Телеграм-бот, предназначенный для поиска и подбора фильмов
 
