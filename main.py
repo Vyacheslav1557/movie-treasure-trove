@@ -41,7 +41,7 @@ def main() -> None:
     application = (
         Application.builder()
         .token(BOT_TOKEN)
-        .arbitrary_callback_data(True)
+        .concurrent_updates(True)
         .build()
     )
 
